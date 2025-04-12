@@ -25,3 +25,6 @@ Download the dataset from https://www.kaggle.com/datasets/vipoooool/new-plant-di
 
 ---
 
+## Output
+
+![Recording2025-04-12105820-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/186b40db-3c69-4dd4-8f76-033865ed8dcb)
